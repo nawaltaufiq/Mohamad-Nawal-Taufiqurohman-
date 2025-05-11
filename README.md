@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamad Nawal Taufiqurohman
+# 👋 Hi, I'm Mohamad Nawal Taufiqurohman, S.T
 
 I'm an **AI-Assisted Technologist** — I design real-world tech solutions using AI like ChatGPT to assist in planning, coding, and deploying projects, especially in IoT and applied technologies.
 
